@@ -1,0 +1,4 @@
+interface:
+  display_name: "OfferLens Interview Data"
+  short_description: "Use real job descriptions and interview records"
+  default_prompt: "Use OfferLens real interview data for this interview-preparation request."
